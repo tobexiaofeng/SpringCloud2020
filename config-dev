@@ -1,1 +1,3 @@
-congig: "version=1"
+congig:
+  info:"version=1"
+
